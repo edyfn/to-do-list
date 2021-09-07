@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tasks">Tasks</string>
+    <string name="new_task">Create Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="hour">Hour</string>
+    <string name="description_new_task">New Task</string>
+    <string name="label_edit">Edit</string>
+    <string name="lable_delete">Delete</string>
+    <string name="label_you_dont_have_tasks">You do not have tasks</string>
+</resources>
